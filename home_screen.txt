@@ -1,3 +1,5 @@
 bot bar
 FAB
 app bar
+list view
+profile pic
