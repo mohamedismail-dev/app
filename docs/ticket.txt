@@ -1,0 +1,15 @@
+titel
+"Sitting Screen"
+
+Dis
+-
+-
+
+F
+*
+*
+*
+*
+
+
+ticket >> Branch >> commit >> (pull) >> push
